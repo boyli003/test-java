@@ -6,5 +6,6 @@ public class test {
         System.out.println("my is from_master_1");
         System.out.println("my is from_master_2");
         System.out.println("my is from_master_2");
+        System.out.println("my is master");
     }
 }
