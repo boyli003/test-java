@@ -4,5 +4,6 @@
 public class test {
     public static void main(String[] args) {
         System.out.println("my is from_master_1");
+        System.out.println("my is from_master_2");
     }
 }
